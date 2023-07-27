@@ -1,3 +1,3 @@
 # App2
-##Welcome to my first app
-This app will lots of fun
+## Welcome to my first app
+This will be lots of fun
